@@ -130,6 +130,7 @@ while True:
 ```
 + Pada tugas praktikum saya menggunakan fitur function yang ada di Python. Dan menggunakan media penyimpanan data berupa Dictionary Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya. Ketika program di jalankan pada kali pertama, maka akan mu
 <img width="960" alt="Screenshot_40" src="https://user-images.githubusercontent.com/115516635/205009234-2cd9a9f4-cf4d-4b20-b6d1-43b98d205779.png">
+
 ``` python
 Terdapat 5 menu Pilihan, yaitu :
 ```
