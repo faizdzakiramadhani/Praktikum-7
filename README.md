@@ -5,8 +5,9 @@
 # Tugas Latihan 1
 <img width="599" alt="Screenshot_43" src="https://user-images.githubusercontent.com/115516635/204830165-1431819c-8d7a-4492-bc7c-789ff9d65568.png">
 # Code
+
 ```Python
-# bayupratama
+# faiz dzaki ramadhani
 print("________________________________________")
 #mengubah function menggunakan lambda
 def a(x):
@@ -42,7 +43,7 @@ print("   Hasil : lambda s: "".join(set(s)))")
 <img width="599" alt="Screenshot_42" src="https://user-images.githubusercontent.com/115516635/204832114-5ea6dba3-e680-43df-8d04-c183e2fc5b88.png">#
 # Code
 ```Python
-# bayupratama
+# faiz dzaki
 data = {}
 def tambah():
     print("Tambah Data")
